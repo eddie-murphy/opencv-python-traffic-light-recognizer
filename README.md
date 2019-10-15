@@ -4,3 +4,5 @@ OpenCV Python program that identifies traffic lights and their state (red, green
 I have included the python and jupyter notebook files. I have included a static html printout of hte jupyter notebook with outputs. 
 
 I have included the dash camera images (under images) and the ground truth locations of the traffic lights. 
+
+Please see the wiki for a detailed write up on what the program is doing.
