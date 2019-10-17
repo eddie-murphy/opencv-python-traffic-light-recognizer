@@ -1,5 +1,5 @@
 # opencv-python-traffic-lights
-OpenCV Python program that identifies traffic lights and their state (red, green, yellow) from dash cam photos
+OpenCV(version 3) Python program that identifies traffic lights and their state (red, green, yellow) from dash cam photos
 
 * I have included the python and jupyter notebook files (**opencv_python_traffic_lights_main**). I have included a static html printout of the jupyter notebook with outputs. 
 
